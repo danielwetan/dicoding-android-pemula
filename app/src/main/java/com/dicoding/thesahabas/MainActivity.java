@@ -74,8 +74,8 @@ public class MainActivity extends AppCompatActivity {
             case R.id.menu_share:
                 Intent shareApp = new Intent(Intent.ACTION_SEND);
                 shareApp.setType("text/plain");
-                String shareSubject = "Ten Sahabas";
-                String shareBody = "This application is made by Daniel Saputra";
+                String shareSubject = "The Sahabas";
+                String shareBody = "The Sahabas:\n\n https://github.com/danielwetan/dicoding-android-pemula";
                 shareApp.putExtra(Intent.EXTRA_SUBJECT, shareSubject);
                 shareApp.putExtra(Intent.EXTRA_TEXT, shareBody);
                 startActivity(shareApp);
