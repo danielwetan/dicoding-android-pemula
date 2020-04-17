@@ -1,3 +1,5 @@
+## Dicoding Android Pemula
+
 Submission untuk kelas Dicoding: Belajar Membuat Aplikasi Android untuk Pemula
 https://www.dicoding.com/academies/51
 
@@ -6,8 +8,8 @@ https://www.dicoding.com/academies/51
 ### Deskripsi
 
 Aplikasi ini berisi daftar Sahabat Nabi صلى الله عليه و سلم.
+
 Ketika salah satu item diklik, akan menampilkan deskripsi lengkap dari nama Sahabat tersebut.
-Saya menggunakan warna hijau karena identik dengan Islam.
 
 ---
 
